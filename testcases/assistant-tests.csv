@@ -1,0 +1,3 @@
+query,expected_contains
+"How can I reset my password?","reset"
+"What are your working hours?","hours"
